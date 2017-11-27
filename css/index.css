@@ -70,15 +70,12 @@ a{
 	height :210px;
 }
 .header .box:nth-child(5):hover .subnav{
-	height :90px;
-}
-.header .box:nth-child(6):hover .subnav{
 	height :130px;
 }
-.header .box:nth-child(7):hover .subnav{
+.header .box:nth-child(6):hover .subnav{
 	height :90px;
 }
-.header .box:nth-child(8):hover .subnav{
+.header .box:nth-child(7):hover .subnav{
 	height :130px;
 }
 .header .box .subnav ul{
@@ -99,14 +96,15 @@ a{
 	background: rgba(124,124,124,0.7);
 }
 .banner{
-	width: 100%;
+	width: 1349px;
 	height: 492px;
 	position: relative;
 	top: 0;
 	left: 0;
+	margin: 0 auto;
 }
 .banner img{
-	width: 100%;
+	width: 1349px;
 	position: absolute;
 	left: 0;
 	top: 0;

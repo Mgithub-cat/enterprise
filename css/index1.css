@@ -2,11 +2,11 @@
 * @Author: Stark
 * @Date:   2017-11-25 16:45:22
 * @Last Modified by:   Stark
-* @Last Modified time: 2017-11-25 21:41:40
+* @Last Modified time: 2017-11-27 19:18:21
 */
 .product{
 	width: 100%;
-	height: 74px;
+	height: auto;
 	border-bottom: 1px solid #CCCCCC;
 	padding-top: 30px;
     margin-bottom: 40px;
