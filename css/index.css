@@ -91,7 +91,7 @@ a{
 	color: #333;
 	background: rgba(255,255,255,0.7);
 }
-.header .box .subnav li a:hover{
+.header .subnav li a:hover{
 	color: #C60108;
 	background: rgba(124,124,124,0.7);
 }
@@ -102,6 +102,9 @@ a{
 	top: 0;
 	left: 0;
 	margin: 0 auto;
+}
+.banner .pic{
+	transition: all .5s;
 }
 .banner img{
 	width: 1349px;
@@ -124,7 +127,7 @@ a{
 	bottom: 20px;
 	z-index: 10;
 }
-.banner li{
+.banner .turn{
 	width: 10px;
 	height: 10px;
 	border-radius: 50%;
@@ -132,9 +135,12 @@ a{
 	float: left;
 	margin: 0 10px;
 }
-.banner li:hover{
+.banner .turn:hover{
 	background: #fff;
 	cursor: pointer;
+}
+.banner .turn:first-child{
+	background: #fff;
 }
 .food{
 	width: 100%;
