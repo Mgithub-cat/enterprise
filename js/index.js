@@ -36,7 +36,7 @@ window.onload = function () {
         clearInterval(t);
     }
     ban.onmouseout = function () {
-        t = setInterval(move, 1000);
+        t = setInterval(move, 3000);
     }
     for (let i = 0; i < turn.length; i++) {
         turn[i].onmouseover = function () {
