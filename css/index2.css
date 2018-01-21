@@ -1,11 +1,5 @@
-/*
-* @Author: Stark
-* @Date:   2017-11-25 19:29:55
-* @Last Modified by:   Stark
-* @Last Modified time: 2017-11-25 20:00:48
-*/
-.introduce{
-	width: 1185px;
+.introduce {
+    width: 1185px;
     height: 857px;
     padding: 15px;
     padding-right: 0px;
@@ -13,14 +7,16 @@
     text-align: justify;
     margin: 0 auto;
 }
-.introduce h1{
-	text-align: center;
+
+.introduce h1 {
+    text-align: center;
     font-size: 20px;
     height: 35px;
     line-height: 35px;
 }
-.introduce h2{
-	text-align: center;
+
+.introduce h2 {
+    text-align: center;
     font-weight: normal;
     width: auto;
     height: 25px;
@@ -32,46 +28,54 @@
     margin-bottom: 5px;
     font-size: 14px;
 }
-.intro{
-	width: 1185px;
-	height: 660px;
-	margin: 30px auto 5px;
-	position: relative;
-	top: 0;
-	left: 0;
+
+.intro {
+    width: 1185px;
+    height: 660px;
+    margin: 30px auto 5px;
+    position: relative;
+    top: 0;
+    left: 0;
 }
-.intro img{
-	width: 660px;
-	position: absolute;
-	left: 0;
-	right: 0;
-	top: 0;
-	margin: 0 auto;
+
+.intro img {
+    width: 660px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: 0 auto;
 }
-.intro span{
-	font-family: "宋体";
-	font-size: 50px;
+
+.intro span {
+    font-family: "宋体";
+    font-size: 50px;
 }
-.intro span:hover{
-	color: #C60108;
+
+.intro span:hover {
+    color: #C60108;
 }
-.intro .zuo{
-	position: absolute;
-	left: 0;
-	top: 50%;
+
+.intro .zuo {
+    position: absolute;
+    left: 0;
+    top: 50%;
 }
-.intro .you{
-	position: absolute;
-	right: 0;
-	top: 50%;
+
+.intro .you {
+    position: absolute;
+    right: 0;
+    top: 50%;
 }
-.introduce .in_bot1{
-	border-bottom: solid 1px #ccc;
+
+.introduce .in_bot1 {
+    border-bottom: solid 1px #ccc;
     font-weight: bold;
     font-size: 15px;
     margin-bottom: 10px;
 }
-.introduce .in_bot2{
-	font-size: 16px;
+
+.introduce .in_bot2 {
+    font-size: 16px;
     line-height: 2;
 }
