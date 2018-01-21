@@ -89,6 +89,10 @@
     justify-content: space-between;
 }
 
+.hot{
+    background: #c7000a!important;
+}
+
 .list .details a {
     display: block;
 }
